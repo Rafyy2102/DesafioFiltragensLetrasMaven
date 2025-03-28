@@ -46,11 +46,8 @@ Cada uma dessas soluções apresenta uma maneira de resolver o problema de filtr
 ### 1. Clone the repository:
 
 ```bash
-git clone https://https://github.com/Igorgcf/Challenge-UpperCase.git
+git clone https://github.com/Rafyy2102/DesafioFiltragensLetrasMaven.git
 ```
 
 ### Como executar a aplicação
-2. Run the application as a whole using the command: `mvn clean install` through the terminal.
-
-Execute a aplicação como um todo utilizando o comando: `mvn clean install` através do terminal.
-
+2. Execute a aplicação como um todo utilizando o comando: `mvn clean install` através do terminal.
