@@ -43,7 +43,7 @@ Cada uma dessas soluções apresenta uma maneira de resolver o problema de filtr
 
 ### Execute a aplicação com Maven
 
-### 1. Clone the repository:
+### 1. Clone do repository:
 
 ```bash
 git clone https://github.com/Rafyy2102/DesafioFiltragensLetrasMaven.git
